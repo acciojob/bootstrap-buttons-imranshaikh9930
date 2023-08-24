@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+
+.row{
+	padding:20px;
+	text-align: center;
+	gap:10px;
+}
